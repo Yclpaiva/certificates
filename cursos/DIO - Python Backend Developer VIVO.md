@@ -1,0 +1,1 @@
+OPP em python, herança, polimorfismo, encapsulamento, classes abstratas, interfaces, tratamento de exceções, testes unitários, integração contínua, versionamento de código, FastAPI, migração de banco de dados, MongoDB, Docker, PostgresDB, git/github 

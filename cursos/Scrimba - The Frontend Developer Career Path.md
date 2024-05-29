@@ -1,0 +1,1 @@
+JavaScript, TypeScript, HTML, CSS, React, Fundamentos, Manipulação DOM, Funções, Eventos, Assíncrono, ES6+, Fetch API, Arrays, Objetos, Prototypes, Herança, Tipos Básicos, Compilação, Configuração, Módulos, Generics, Decorators, HTML/CSS , Componentes, Props, State, Ciclo de Vida, Roteamento, Gerenciamento de Estado, ReactHooks, Integração de APIs, Estilização em React.

@@ -1,0 +1,1 @@
+Node.js, TypeScript, NPM, EcmaScript Modules, CommonJS, Fundamentos, Introdução, Inicialização, Modularização, Node Modules, Gerenciamento de Pacotes, NPM Scripts, Variáveis de Ambientes, Debugging, Supersets, Funcionamento da Web, protocolo HTTP, rotas de requisição, métodos HTTP, headers HTTP, body HTTP, REST, RESTful, API, CRUD, JSON,Testes Unitários, Testes de Integração

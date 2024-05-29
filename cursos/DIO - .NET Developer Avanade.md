@@ -1,0 +1,1 @@
+Sintaxe, Operadores, Estruturas de repetição, Estruturas de decisão, Funções, Classes, Objetos, Herança, Polimorfismo, Encapsulamento, Interface, Abstract, Enum, Eventos, Collections, Interfaces, Entity Framework, Design Patterns, Testes Unitários, Testes de Integração
